@@ -1,0 +1,16 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 0px;
+    margin-top: 150px;
+}
+
+.login-img {
+    height: 800px;
+    width: 1100px;
+}
+
+.image-login {
+    margin-left: -380px;
+}
